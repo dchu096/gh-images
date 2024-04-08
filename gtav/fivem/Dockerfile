@@ -1,4 +1,4 @@
-FROM        debian:bullseye-slim
+FROM        --platform=$TARGETOS/$TARGETARCH debian:buster-slim
 
 LABEL       author="Daniel" maintainer="danielchu096@gmail.com"
 
