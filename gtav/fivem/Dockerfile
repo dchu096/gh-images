@@ -1,8 +1,8 @@
-FROM        debian:trixie-slim
+FROM        debian:bullseye-slim
 
 LABEL       author="Daniel" maintainer="danielchu096@gmail.com"
 
-LABEL       org.opencontainers.image.source="https://github.com/pterodactyl/yolks"
+LABEL       org.opencontainers.image.source="https://github.com/dchu096/gh-images"
 LABEL       org.opencontainers.image.licenses=MIT
 
 RUN         apt update && apt upgrade -y \
