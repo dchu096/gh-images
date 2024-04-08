@@ -1,4 +1,4 @@
-FROM        debian:bullseye-slim
+FROM        debian:trixie-slim
 
 LABEL       author="Daniel" maintainer="danielchu096@gmail.com"
 
