@@ -20,7 +20,7 @@ concurrency:
 
 jobs:
   push:
-    name: "games_${{ matrix.tag }}"
+    name: "gtav_${{ matrix.tag }}"
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
