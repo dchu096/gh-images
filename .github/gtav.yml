@@ -15,7 +15,7 @@ permissions:
   packages: write
 
 concurrency:
-  group: games-${{ github.ref }}-1
+  group: gtav-${{ github.ref }}-1
   cancel-in-progress: true
 
 jobs:
