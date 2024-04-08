@@ -28,5 +28,4 @@ echo -e "=======================================================================
 echo -e "${YELLOW}Welcome to Gravel Host! If you have any issues don't hesitate to contact us on discord at discord.gg/gravelhost ${RESET_COLOR}"
 echo -e "========================================================================================================"
 eval ${MODIFIED_STARTUP}
-echo "Hello I'm Nanashi, your personal AI assistant. You can contact me on Discord nanashiz2"
 
