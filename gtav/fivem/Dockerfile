@@ -1,4 +1,4 @@
-FROM        buster-slim
+FROM        debian:bullseye-slim
 
 LABEL       author="Daniel" maintainer="danielchu096@gmail.com"
 
