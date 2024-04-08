@@ -1,4 +1,4 @@
-FROM        --platform=$TARGETOS/$TARGETARCH debian:bookworm-slim
+FROM        buster-slim
 
 LABEL       author="Daniel" maintainer="danielchu096@gmail.com"
 
